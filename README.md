@@ -1,5 +1,9 @@
 <!-- BEGIN_TF_DOCS -->
+# AWS SSM
 
+```
+./ssm-put.sh Key Value
+```
 ## Providers
 
 | Name | Version |
