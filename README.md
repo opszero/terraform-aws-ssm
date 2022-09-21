@@ -8,7 +8,7 @@
 
 | Name | Version |
 |------|---------|
-| <a name="provider_aws.ssm"></a> [aws.ssm](#provider\_aws.ssm) | n/a |
+| <a name="provider_aws"></a> [aws](#provider\_aws) | n/a |
 ## Inputs
 
 | Name | Description | Type | Default | Required |
